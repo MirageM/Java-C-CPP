@@ -1,4 +1,5 @@
 // Leetcode #39: Combination Sum
+// Time Complexity: O(n^2) Space Complexity: O(n)
 public class Solution {
     public IList<IList<int>> CombinationSum(int[] candidates, int target) {
         var result = new List<IList<int>>();
