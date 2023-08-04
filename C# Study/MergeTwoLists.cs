@@ -1,4 +1,5 @@
 // LeetCode 21. Merge Two Sorted Lists
+// Time Complexity: O(n) Space Complexity: O(n)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
