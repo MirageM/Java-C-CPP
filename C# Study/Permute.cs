@@ -1,4 +1,5 @@
 // Leetcode: #46 Permutations
+// Time Complexity: O(n!) Space Complexity: O(n)
 public class Solution {
     public IList<IList<int>> Permute(int[] nums) {
         IList<IList<int>> result = new List<IList<int>>();
