@@ -1,4 +1,5 @@
 // Leetcode: #105 Construct Binary Tree from Preorder and Inorder Traversal
+// Time Complexity: O(n) Space Complexity: O(h)
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
