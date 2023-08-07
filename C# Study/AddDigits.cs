@@ -1,4 +1,5 @@
 // LeetCode: 258. Add Digits
+// Time Complexity: O(1) Space Complexity: O(1)
 public class Solution {
     public int AddDigits(int num) {
         if (num == 0)
