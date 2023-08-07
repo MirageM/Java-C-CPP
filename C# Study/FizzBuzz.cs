@@ -1,4 +1,5 @@
 // Leetcode: 412. Fizz Buzz
+// Time Complexity: O(n) Space Complexity: O(n)
 public class Solution {
     public IList<string> FizzBuzz(int n) {
         var answer = new List<string>(n);
